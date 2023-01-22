@@ -24,7 +24,7 @@
         --ChatBox: var(--darkgrey5);
         --SendMessage: var(--darkgrey);
         --HoverMessage: var(--darkgrey5);
-        --JoinUS: 'Hey! Wanna have some fun.. Join US !';
+        --JoinUS: 'Join US';
         --AddNewServer: '➕ Add a new server';
         --Close: '🔴';
         --Resize: '🔵';
@@ -41,7 +41,7 @@
         --Community: 'purpies';
         --WelcomeMessage: 'Swatticus Development.';
         --Watermark: 'Created By Swatticus Development';
-        --EditStatus: 'Put another status';
+        --EditStatus: 'Set Status';
         --Folders: '📁';
         --FoldersOpen: '💠';
         --ServerSize: 45px;
